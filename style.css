@@ -640,6 +640,7 @@ footer {
     letter-spacing: 0px;
     color: #9BA9B4;
     list-style: none;
+    white-space: nowrap;
 }
 
 .Details-block ul {
