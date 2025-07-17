@@ -933,6 +933,10 @@ footer {
         margin-right: 10px;
     }
 
+    .Details-block li {
+        white-space: wrap;
+    }
+
 
 
 }
@@ -1162,6 +1166,10 @@ footer {
         gap: 30px;
 
     }
+
+    .Details-block li {
+        white-space: wrap;
+    }
 }
 
 @media (min-width: 901px) and (max-width: 1200px) {
@@ -1301,5 +1309,15 @@ footer {
         width: 35%;
         font-size: 15px;
         padding: 12px 0;
+    }
+
+    .Details-block li {
+        white-space: wrap;
+    }
+}
+
+@media (min-width: 1201px) and (max-width: 1367px) {
+    .Details-block li {
+        white-space: wrap;
     }
 }
